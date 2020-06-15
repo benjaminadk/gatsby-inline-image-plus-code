@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/benjaminadk/gatsby-wpgraphql-inline-images.git"
+    "url": "https://github.com/benjaminadk/gatsby-inline-image-plus-code.git"
   },
   "license": "MIT",
   "dependencies": {
